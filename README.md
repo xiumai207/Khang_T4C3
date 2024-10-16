@@ -1,1 +1,2 @@
-# Khang_T4C3
+# CNPMNC
+# Quach Tuan Khang
