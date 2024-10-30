@@ -1,5 +1,5 @@
 <!-- Hình ảnh đại diện -->
-<img align="right" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://github.com/MinhHuy.png" />
+<img align="right" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://github.com/xiumai207.png" />
 
 # 👋 Xin chào! Tôi là Quách Tuấn Khang
 
