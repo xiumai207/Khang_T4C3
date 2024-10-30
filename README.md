@@ -4,18 +4,13 @@
 # 👋 Xin chào! Tôi là Quách Tuấn Khang
 
 ### 🌟 Sinh viên Công nghệ phần mềm theo học tại HUFLIT
-
-*Là một sinh viên đam mê công nghệ*, tôi không ngừng tìm kiếm cơ hội để phát triển bản thân và học hỏi những điều mới mẻ trong lĩnh vực phát triển phần mềm. Tôi tin rằng công nghệ có thể mang lại những giải pháp mạnh mẽ cho các vấn đề thực tiễn, và tôi rất hứng thú với việc tham gia vào các dự án thực tế để áp dụng kiến thức đã học. Tôi làm việc cùng với các bạn sinh viên để tạo ra các sản phẩm sáng tạo có giá trị cho cộng đồng.
+*Là một sinh viên yêu thích công nghệ*, tôi không ngừng tìm kiếm cơ hội để phát triển bản thân và học hỏi những điều mới mẻ trong lĩnh vực phát triển phần mềm. Tôi tin rằng công nghệ có thể mang lại những giải pháp mạnh mẽ cho các vấn đề thực tiễn, và tôi rất hứng thú với việc tham gia vào các dự án thực tế để áp dụng kiến thức đã học. Tôi làm việc cùng với các bạn sinh viên để tạo ra các sản phẩm sáng tạo có giá trị cho cộng đồng.
 
 ---
-
-## 📘 Về tôi
-
+## 📘 Giới thiệu
 - 🎓 *Học vấn*: Công nghệ phần mềm tại *Trường Đại học Ngoại ngữ và Tin Học (HUFLIT)*.
 - 👤 *Giới thiệu*: Tôi thích nghe nhạc, thích sáng tạo với máy tính
 - 👥 *Nhóm*: Thành viên tích cực trong *Nhóm Phát triển HUFLIT*, thực hiện các dự án công nghệ để rèn luyện kỹ năng và tạo ra sản phẩm có giá trị. 
-- 🌱 *Tập trung hiện tại*: Các dự án liên quan đến *Phát triển Web* và *Quản lý Dữ liệu*.
-
 ---
 
 ## 🔍 Dự án hiện tại và đã hoàn thành
