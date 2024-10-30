@@ -92,7 +92,7 @@ Một hệ thống toàn diện với các chức năng chính như:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minhhuy&show_icons=true&theme=highcontrast" alt="GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhuy&layout=compact&theme=highcontrast" alt="Top languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiumai207&layout=compact&theme=highcontrast" alt="Top languages" width="400" />
 </p>
 ## Activities:
 
